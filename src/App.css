@@ -217,3 +217,75 @@ form > div {
     transform: rotate(360deg);
   }
 }
+
+.meetings-button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 20px 0;
+  background-color: #007bff; 
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 600;
+  transition: background-color 0.3s;
+}
+
+.flights-button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 20px 0;
+  background-color: #007bff; 
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 600;
+  transition: background-color 0.3s;
+  margin-left: 20px;
+}
+
+.view-triplist-button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 20px 0;
+  background-color: #007bff; 
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 600;
+  transition: background-color 0.3s;
+  margin-left: 20px;
+}
+
+.meetings-button:hover {
+  background-color: #0056b3;
+}
+
+.flights-button:hover {
+  background-color: #0056b3;
+}
+
+
+.view-triplist-button:hover {
+  background-color: #0056b3;
+}
+
+.addToTripList {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 20px 0;
+  background-color: #007bff; 
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 600;
+  transition: background-color 0.3s;
+  margin-left: 20px;
+}
