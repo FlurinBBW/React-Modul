@@ -1,0 +1,49 @@
+.triplist-container {
+    padding: 20px;
+  }
+  
+  .return-home-button {
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .return-home-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .triplist-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .triplist-item {
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    padding: 10px;
+  }
+  
+  .triplist-item h2 {
+    margin: 0;
+  }
+  
+  .triplist-item p {
+    margin: 5px 0;
+  }
+  
+  .remove-trip-button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .remove-trip-button:hover {
+    background-color: #c82333;
+  }
+  
