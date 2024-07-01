@@ -15,7 +15,6 @@ const Meetings = () => {
     description: ''
   });
 
-  // Load meetings from API on component mount
   useEffect(() => {
     fetchMeetings();
   }, []);
